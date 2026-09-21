@@ -145,8 +145,8 @@ Users can also upload a product image and ask the assistant to find relevant pro
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Yukta-Yadav/ai-shopping-assistant.git
-cd ai-shopping-assistant
+git clone https://github.com/Yukta-Yadav/AI_Shopping_Assistant
+cd AI_Shopping_Assistant
 ```
 
 ### 2. Install dependencies
@@ -188,5 +188,3 @@ The application will open in your browser.
 * Integration with real payment and e-commerce APIs
 * Automated evaluation of search and recommendation quality
 
-B.Tech Computer Science & Engineering (AI)
-IGDTUW
